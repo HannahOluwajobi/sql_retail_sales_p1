@@ -171,10 +171,11 @@ GROUP BY shift;
 
 This project serves as a comprehensive introduction to SQL for data analysts, covering database setup, data cleaning, exploratory data analysis, and business-driven SQL queries. The findings from this project can help drive business decisions by understanding sales patterns, customer behavior, and product performance.
 
-📬 Contact & Collaboration
-This project is part of my professional Data Analysis Portfolio. If you have any questions regarding the methodology, data-driven insights, or potential collaborations, feel free to get in touch:
-• LinkedIn: https://www.linkedin.com/in/hannah-jobi
-• Email: hannahtobi3@gmail.com
-• GitHub: github.com/your-username
+### **📬 Contact & Collaboration**
 
+This project is part of my professional **Data Analysis Portfolio**. If you have any questions regarding the **methodology**, **data-driven insights**, or potential **collaborations**, feel free to get in touch:
+
+* **LinkedIn**: [linkedin.com/in/hannah-jobi](https://www.linkedin.com/in/hannah-jobi)
+* **Email**: [hannahtobi3@gmail.com](mailto:hannahtobi3@gmail.com)
+* **GitHub**: [github.com/HannahOluwajobi](https://github.com/HannahOluwajobi)
 
